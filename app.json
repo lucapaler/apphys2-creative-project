@@ -1,0 +1,12 @@
+{
+  "name": "apphys2-creative-project",
+  "displayName": "apphys2-creative-project",
+  "expo": {
+    "name": "apphys2-creative-project",
+    "slug": "apphys2-creative-project",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
